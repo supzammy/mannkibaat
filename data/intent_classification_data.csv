@@ -1,0 +1,216 @@
+text,label,category
+I've been feeling exhausted and hopeless for weeks now,1,depression
+My sleep has been terrible and I can't focus at work anymore,1,depression
+I feel empty and don't enjoy anything that used to make me happy,1,depression
+Constant sadness and loss of appetite for the past month,1,depression
+I feel worthless and like a burden to everyone around me,1,depression
+Everything feels pointless and I have no motivation to do anything,1,depression
+I can't stop crying and feel overwhelmed by sadness,1,depression
+"No energy, no interest in life, just want to sleep all day",1,depression
+I feel disconnected from everything and everyone,1,depression
+My mood is consistently low and I struggle to get out of bed,1,depression
+Constant anxiety and racing thoughts keep me awake at night,1,anxiety
+I feel nervous and worried about everything all the time,1,anxiety
+My heart races and I feel like I can't breathe when I think about work,1,anxiety
+Overwhelming panic attacks that come out of nowhere,1,anxiety
+I'm constantly on edge and can't relax even when I try,1,anxiety
+Fear and worry dominate my thoughts every single day,1,anxiety
+"Physical tension, trembling, and constant nervousness",1,anxiety
+I avoid social situations because of intense anxiety,1,anxiety
+Restless and unable to calm my mind despite trying meditation,1,anxiety
+Intrusive anxious thoughts that I can't control or stop,1,anxiety
+I'm struggling with both depression and anxiety lately,1,mixed
+"Feeling tired, sad, and worried all at the same time",1,mixed
+My mental health has declined significantly over the past months,1,mixed
+"I experience mood swings, anxiety attacks, and deep sadness",1,mixed
+"Cannot concentrate, feel hopeless, and constantly stressed",1,mixed
+I have no appetite and have lost significant weight recently,1,physical
+Chronic insomnia and fatigue affecting my daily functioning,1,physical
+"Headaches, body aches, and extreme tiredness every day",1,physical
+Sleep disturbances and loss of energy for basic tasks,1,physical
+Physical exhaustion combined with emotional numbness,1,physical
+I've been having thoughts about ending my life,1,severe
+Feel like the world would be better without me,1,severe
+Life feels unbearable and I don't see a way forward,1,severe
+Constant thoughts of self-harm and giving up on everything,1,severe
+I think I might be experiencing clinical depression,1,seeking_help
+My mental state has deteriorated and I need professional help,1,seeking_help
+I'm concerned about my mental health and emotional wellbeing,1,seeking_help
+Experiencing symptoms of a mental health disorder,1,seeking_help
+For the past three weeks I've felt sad every single day with no energy to do basic things like showering or eating,1,detailed
+My anxiety has gotten so bad that I can't leave my house anymore and I feel trapped,1,detailed
+I used to love painting and spending time with friends but now nothing brings me joy and I isolate myself,1,detailed
+Every morning I wake up with a heavy feeling in my chest and dread facing another day of feeling this way,1,detailed
+I cry unexpectedly throughout the day and struggle to explain why I feel so broken inside,1,detailed
+"My concentration is gone, I can't remember things, and my work performance has suffered terribly",1,detailed
+I feel like I'm drowning in negative thoughts and can't find a way to feel normal again,1,detailed
+The guilt and shame I feel about everything is overwhelming and I can't shake these feelings,1,detailed
+"I'm emotionally numb, can't connect with loved ones, and feel completely alone even in a crowd",1,detailed
+"Sleep is either impossible or all I do, my eating habits are irregular, and I have zero motivation",1,detailed
+I'm feeling very much depressed and tension is too much,1,indian_english
+My mind is not working properly and I feel very sad all the time,1,indian_english
+I am having too much stress and cannot cope with daily life,1,indian_english
+I think I might be experiencing clinical depression,1,clinical
+Experiencing symptoms of major depressive disorder,1,clinical
+I believe I have generalized anxiety disorder,1,clinical
+Showing signs of persistent depressive mood,1,clinical
+I may be suffering from a mental health condition,1,clinical
+Concerned about possible psychiatric symptoms,1,clinical
+I might need psychological evaluation and treatment,1,clinical
+Experiencing clinical levels of anxiety and stress,1,clinical
+worried about everything constantly and can't relax,1,everything_genuine
+feeling anxious about everything in my life,1,everything_genuine
+everything feels overwhelming and too much to handle,1,everything_genuine
+I worry about everything all day long,1,everything_genuine
+nothing makes me happy anymore and I feel empty,1,everything_genuine
+nothing interests me and life feels meaningless,1,everything_genuine
+"I can't enjoy anything anymore, nothing brings pleasure",1,everything_genuine
+anything triggers my anxiety and panic,1,everything_genuine
+Completely burned out from work and life demands,1,stress
+Overwhelming stress that I can't manage anymore,1,stress
+Work stress combined with personal issues breaking me down,1,stress
+Chronic stress affecting my physical and mental health,1,stress
+Under extreme pressure and feeling like I'm breaking,1,stress
+Stress levels are unbearable and affecting everything,1,stress
+Feeling isolated and lonely with no one to talk to,1,social
+My relationships are falling apart and I feel alone,1,social
+Social anxiety prevents me from connecting with people,1,social
+I've withdrawn from all my friends and family,1,social
+Loneliness is crushing me and I can't reach out,1,social
+Haunted by past traumatic experiences daily,1,trauma
+Flashbacks and nightmares affecting my daily life,1,trauma
+Can't stop thinking about traumatic events from my past,1,trauma
+Triggered by certain situations that remind me of trauma,1,trauma
+I hate myself and think I'm worthless,1,self_esteem
+My self-confidence is completely destroyed,1,self_esteem
+I feel inadequate and like a failure at everything,1,self_esteem
+No self-worth and constant negative self-talk,1,self_esteem
+Using alcohol to cope with my depression,1,substance
+Unhealthy coping mechanisms are taking over my life,1,substance
+Self-medicating to deal with anxiety and pain,1,substance
+Can't focus on work due to depression and anxiety,1,work
+My academic performance has crashed due to mental health,1,work
+Unable to function at work because of constant sadness,1,work
+Career is suffering because I can't concentrate or care,1,work
+Family pressure and expectations causing severe stress,1,indian_context
+Struggling with arranged marriage pressure and depression,1,indian_context
+Career expectations from parents making me anxious and sad,1,indian_context
+Feeling trapped by family obligations and cultural expectations,1,indian_context
+bro what should i tell you,0,casual_english
+lol idk what to write here,0,casual_english
+nothing much just chilling,0,casual_english
+hey just testing this app out,0,casual_english
+hello world testing testing,0,casual_english
+sup bro how does this work,0,casual_english
+lmao this is funny af,0,casual_english
+idk man dunno what to say,0,casual_english
+random text here just checking,0,casual_english
+yo what's good with you,0,casual_english
+yaar kya bolu samajh nahi aa raha,0,casual_hindi
+bhai pata nahi kya likhun,0,casual_hindi
+kuch nahi bas timepass kar raha,0,casual_hindi
+arre yaar kaise batau,0,casual_hindi
+bhai demo hai kya ye,0,casual_hindi
+what should i write in this box,0,question
+how does this mental health test work,0,question
+can you tell me what to enter here,0,question
+what am i supposed to tell you exactly,0,question
+is this for real or just a demo,0,question
+what information do you need from me,0,question
+how accurate is this assessment tool,0,question
+i'm okay,0,too_short
+nothing wrong,0,too_short
+fine thanks,0,too_short
+all good,0,too_short
+not bad,0,too_short
+today i went to work and came back home,0,neutral
+i had lunch with my friends at a restaurant,0,neutral
+the weather is nice today and sunny,0,neutral
+i watched a movie last night with family,0,neutral
+my schedule for tomorrow is quite busy,0,neutral
+asdfgh jklqwerty zxcvbn,0,gibberish
+dnksdnksdds md skdnsk,0,gibberish
+aaaaaaa bbbbbbb cccccc,0,gibberish
+qwerty uiop asdfgh jkl,0,gibberish
+xyzabc defghi jklmno,0,gibberish
+just trying out this tool,0,testing
+let me see how this works,0,testing
+checking if the app is functional,0,testing
+this is a test message to see results,0,testing
+hello how are you doing,0,greeting
+hi there good morning,0,greeting
+hey what's up buddy,0,greeting
+i don't know what you want me to say,0,confused
+not sure what information to provide,0,confused
+what kind of response are you expecting,0,confused
+yo bro just hanging out here,0,casual_english
+lol this is cool lemme try,0,casual_english
+nah man i'm good no worries,0,casual_english
+dude what's this about anyway,0,casual_english
+haha nice app you got here,0,casual_english
+meh whatever doesn't matter,0,casual_english
+bruh moment lmao wtf,0,casual_english
+ayy lmao that's crazy bro,0,casual_english
+yeah yeah sure thing mate,0,casual_english
+nahh fam i'm chilling rn,0,casual_english
+arre bhai chalta hai yaar,0,casual_hindi
+kya scene hai boss,0,casual_hindi
+theek hai yaar sab theek,0,casual_hindi
+bas bhai normal hi hai,0,casual_hindi
+kuch special nahi yaar,0,casual_hindi
+chal theek hai bhai,0,casual_hindi
+dekh lete hain kya hota hai,0,casual_hindi
+pata nahi yaar bas aise hi,0,casual_hindi
+achha theek hai samajh gaya,0,casual_hindi
+haan bhai sab mast hai,0,casual_hindi
+kjsdhfkjsdhf dskjfhsd ksjdhf,0,gibberish
+mnbvcxz lkjhgfdsa poiuytrewq,0,gibberish
+zzzzzzz xxxxxxx ccccccc,0,gibberish
+qazwsxedc rfvtgbyhn,0,gibberish
+plokmijn uhbygvtfc,0,gibberish
+sdkjnfskdjnf skdnfksd,0,gibberish
+mxnzmxcn zxmcnzxmc,0,gibberish
+qwertyuiop asdfghjkl,0,gibberish
+hhhhh jjjjj kkkkk lllll,0,gibberish
+abcdefgh ijklmnop qrstuv,0,gibberish
+what happens if i click submit,0,question
+how long does this test take,0,question
+who made this application,0,question
+is my data secure and private,0,question
+will i get results immediately,0,question
+can i retake this assessment,0,question
+what do you do with my responses,0,question
+how does the algorithm work exactly,0,question
+meh okay,0,too_short
+yeah sure,0,too_short
+nope nah,0,too_short
+k thx,0,too_short
+cool beans,0,too_short
+alright then,0,too_short
+got it,0,too_short
+sounds good,0,too_short
+i work in software development,0,neutral
+my favorite color is blue,0,neutral
+i live in mumbai with my family,0,neutral
+completed my engineering degree last year,0,neutral
+i enjoy playing cricket on weekends,0,neutral
+currently working from home,0,neutral
+my name is john and i'm 25,0,neutral
+planning to visit goa next month,0,neutral
+demo mode activated let's see,0,testing
+test test one two three,0,testing
+sample input for testing purposes,0,testing
+trial run to check functionality,0,testing
+experiment with this feature,0,testing
+good evening hope you're well,0,greeting
+namaste how may i help you,0,greeting
+hi hello testing this out,0,greeting
+hey there nice to meet you,0,greeting
+greetings and salutations friend,0,greeting
+oh great another mental health thing,0,sarcastic
+sure this will solve all my problems,0,sarcastic
+yeah right like this actually works,0,sarcastic
+wow such helpful much therapy,0,sarcastic
+click here for more information now,0,spam
+visit our website for best deals,0,spam
+subscribe and hit the bell icon,0,spam
