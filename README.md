@@ -6,7 +6,7 @@
 
 A conversation intelligence system for mental health that filters genuine mental health discussions from casual chat, gibberish, and testing behavior with 100% accuracy. Built with a two-stage hybrid classifier (Rules + ML) and integrates sentiment analysis as proof-of-concept for clinical screening.
 
-## 🎯 Key Features
+##  Key Features
 
 - **100% Filtering Accuracy**: Two-stage hybrid classifier (Rules + ML) with zero false positives
 - **Conversation Intelligence**: Distinguishes genuine mental health content from casual chat
@@ -58,7 +58,7 @@ A two-stage hybrid classifier that achieves **100% accuracy** in identifying gen
 | 15-19 | Moderately Severe | Professional help advised |
 | 20-27 | Severe | Immediate intervention |
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 
@@ -207,11 +207,11 @@ mannkibaat/
 - **Clear Session**: One-click privacy reset
 
 ### Privacy Features
-- ✅ No data storage to disk
-- ✅ No external data transmission
-- ✅ Session-only processing
-- ✅ Instant data clearing
-- ✅ No cookies or tracking
+-  No data storage to disk
+-  No external data transmission
+-  Session-only processing
+-  Instant data clearing
+-  No cookies or tracking
 
 ## 📞 Indian Mental Health Resources
 
@@ -294,32 +294,32 @@ docker run -p 8501:8501 mannkibaat
 - **Confidence**: Calibrated to 85-88% range
 - **Use Case**: Demo, fallback, development
 
-## ⚠️ Important Disclaimers
+##  Important Disclaimers
 
 **This tool is a CONVERSATION FILTER and PRELIMINARY SCREENING SYSTEM:**
 
 ### What We Built (Production-Ready):
-- ✅ Input validation with 100% accuracy
-- ✅ Conversation intelligence (genuine vs casual/gibberish)
-- ✅ Two-stage hybrid classifier (Rules + ML)
-- ✅ Cultural context awareness (Hindi/Hinglish)
+- Input validation with 100% accuracy
+- Conversation intelligence (genuine vs casual/gibberish)
+- Two-stage hybrid classifier (Rules + ML)
+- Cultural context awareness (Hindi/Hinglish)
 
 ### What Requires Clinical Validation:
-- ⚠️ Sentiment analysis component (not validated against clinical PHQ-8)
-- ⚠️ Depression severity classification (proxy indicators only)
-- ⚠️ Risk assessment (requires professional evaluation)
+- Sentiment analysis component (not validated against clinical PHQ-8)
+- Depression severity classification (proxy indicators only)
+- Risk assessment (requires professional evaluation)
 
 ### Critical Limitations:
-- ❌ Not a diagnostic tool
-- ❌ Not a replacement for professional care
-- ❌ Not for emergency situations
-- ❌ Not clinically validated for medical use
+-  Not a diagnostic tool
+-  Not a replacement for professional care
+-  Not for emergency situations
+-  Not clinically validated for medical use
 
 ### Appropriate Uses:
-- ✅ Portfolio/demo project
-- ✅ Research prototype
-- ✅ Conversation filtering technology showcase
-- ✅ Pre-screening triage system (with professional oversight)
+-  Portfolio/demo project
+-  Research prototype
+-  Conversation filtering technology showcase
+-  Pre-screening triage system (with professional oversight)
 
 **In Crisis?** Contact emergency services immediately (112) or call AASRA: 91-22-2754-6669
 
@@ -369,7 +369,7 @@ Contributions welcome! Please:
 
 MIT License - See LICENSE file for details
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **Hugging Face**: Transformers library
 - **Streamlit**: Web framework
@@ -381,7 +381,7 @@ MIT License - See LICENSE file for details
 
 - **Issues**: [GitHub Issues](https://github.com/supzammy/mannkibaat/issues)
 - **Documentation**: See `docs/` folder
-- **Email**: [Your contact email]
+
 
 ---
 
