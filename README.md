@@ -16,6 +16,18 @@ A conversation intelligence system for mental health that filters genuine mental
 - **Professional UI**: Medical-grade design, mobile-responsive interface
 - **Sentiment Analysis Integration**: PHQ-8-style screening (requires clinical validation for medical use)
 
+##  Screenshots
+
+- **Medical Results Display**
+  ![Medical Results]( <img width="555" height="659" alt="image" src="https://github.com/user-attachments/assets/40b44541-7937-49ab-92bc-c6b96a34d27e" />)
+
+- **Dark Mode UI**
+  ![Dark Mode](<img width="622" height="689" alt="image" src="https://github.com/user-attachments/assets/cbb9a3df-83b9-4298-9a61-fa0d35262d8f" />)
+
+**Actions Recommendation**
+  ![Actions Recommendation](<img width="519" height="710" alt="image" src="https://github.com/user-attachments/assets/fed96d07-23be-45b5-901f-6a46c16cc8d6" />)
+
+
 ## 🧠 What This System Does
 
 ### Core Technology: Conversation Filtering (Production-Ready)
@@ -48,8 +60,7 @@ A two-stage hybrid classifier that achieves **100% accuracy** in identifying gen
 
 **What It Doesn't Do:** Clinical diagnosis, medical assessment, or replace professional evaluation.
 
-## 📊 PHQ-8 Depression Severity Scale
-![cnjsa](https://github.com/user-attachments/assets/079512e9-2fe7-4eb2-b1d8-5dc872e0db79)
+## 📊 PHQ-8 Depression Severity Scale)
 
 
 | Score Range | Severity Level | Action Recommended |
