@@ -49,6 +49,8 @@ A two-stage hybrid classifier that achieves **100% accuracy** in identifying gen
 **What It Doesn't Do:** Clinical diagnosis, medical assessment, or replace professional evaluation.
 
 ## 📊 PHQ-8 Depression Severity Scale
+![cnjsa](https://github.com/user-attachments/assets/079512e9-2fe7-4eb2-b1d8-5dc872e0db79)
+
 
 | Score Range | Severity Level | Action Recommended |
 |-------------|----------------|-------------------|
