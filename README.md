@@ -19,13 +19,16 @@ A conversation intelligence system for mental health that filters genuine mental
 ##  Screenshots
 
 - **Medical Results Display**
-  ![Medical Results]( <img width="555" height="659" alt="image" src="https://github.com/user-attachments/assets/40b44541-7937-49ab-92bc-c6b96a34d27e" />)
+  ![Medical Results](<img width="555" height="659" alt="Screenshot 2025-11-03 at 2 52 31 AM" src="https://github.com/user-attachments/assets/4e3a9e8d-f88f-4c62-b07a-c85b63356899" />
+)
 
 - **Dark Mode UI**
-  ![Dark Mode](<img width="622" height="689" alt="image" src="https://github.com/user-attachments/assets/cbb9a3df-83b9-4298-9a61-fa0d35262d8f" />)
+  ![Dark Mode](<img width="622" height="689" alt="Screenshot 2025-11-03 at 2 53 13 AM" src="https://github.com/user-attachments/assets/25c7b346-d1ce-4e39-92f3-6077921fcdb6" />
+)
 
 **Actions Recommendation**
-  ![Actions Recommendation](<img width="519" height="710" alt="image" src="https://github.com/user-attachments/assets/fed96d07-23be-45b5-901f-6a46c16cc8d6" />)
+  ![Actions Recommendation](<img width="519" height="710" alt="Screenshot 2025-11-03 at 2 53 49 AM" src="https://github.com/user-attachments/assets/54cfd684-f67b-4ee4-b9ce-8618877361a8" />
+)
 
 
 ## 🧠 What This System Does
